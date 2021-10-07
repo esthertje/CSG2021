@@ -41,7 +41,7 @@ body {
 #plaatjes {
     width: 25%;
     height: 100%;
-    background-color: gray;
+    background-color:mediumaquamarine;
 }
 
 .horizontaal {
@@ -65,12 +65,11 @@ body {
 
 a {
     text-decoration: none;
-    color: #333;
+    color:lightcyan;
 }
 
 a:hover, li:hover {
-    background-color: #CCC;
-}
+    background-color:lightskyblue;
 
 h1 {
     font-size: 4rem;
