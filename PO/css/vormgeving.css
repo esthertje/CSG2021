@@ -12,15 +12,15 @@ html {
 body {
     height: 100%;
     background-image: url(https://www.vakantieviking.nl/wp-content/uploads/2016/09/zonsondergang-strand-duinen-zee.jpg);
-    font-family: initial;
+    font-family: 'Zen Old Mincho', serif;
     
 
 }
 
 #menu {
-    width: 60%;
+    width: 65%;
     height: 15%;
-    background-color:powderblue;
+    background-color: powderblue; 
     margin-left: 10%;
     padding-left: 10%;
     padding-right: 10%;
@@ -28,10 +28,10 @@ body {
 
 #container {
     display: flex;
-    width: 70%;
+    width: 90%;
     height: 80%;
     background-color: darkseagreen;
-    margin-left: 10%;
+    margin-left: 5%;
     background-color: #CCC;
 }
 
@@ -42,8 +42,11 @@ body {
 }
 
 #plaatjes {
-    width: 100%;
+    width: 50%;
     background-color:  #cce6ff;
+ 
+
+
    
 }
 
@@ -77,6 +80,7 @@ a:hover, li:hover {
 }
 
 h1 {
+   
     font-size: 4rem;
     font-weight: 900;  
     text-align:center;
@@ -85,16 +89,21 @@ h1 {
 }
 
 p {
+    
     font-size: 1.7rem;
     margin-bottom: 2rem;
     text-align: justify;
 }
 
 .fotobalk {
-    width: 70%;
+  
     height: auto;
     border: 5px solid whitesmoke;
-    margin-left: 15%;
+    margin-left: 8%;
     margin-top: 40%;
+    max-width: 80%;
+    
 
 }
+
+
